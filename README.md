@@ -1,2 +1,2 @@
-# Quora01
+# Quora
 Question pair similarity
